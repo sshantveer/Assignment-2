@@ -7,5 +7,5 @@ In this **assignment** we mainly focused on,
     * Adding lists
     * Using section, paragraph and other grouping tags.
 
-> Module 2 included Forms, Checkbox, Radio buttons and form validations too. Which was not part of this assignment.
+> Module 2 included Forms, Checkbox, Radio buttons and form validations too. Which were not part of this assignment.
  
